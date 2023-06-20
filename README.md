@@ -1,4 +1,4 @@
-#This project demonstrates the basic table operations
+# This project demonstrates the basic table operations
 
 # Getting Started with Create React App
 
